@@ -1,0 +1,5 @@
+risk_segment,n_policies,pct_of_policies,avg_charges,pct_of_total_cost
+1) Smoker + Obese,145,10.8,41557.99,33.9
+"2) Smoker, BMI < 30",129,9.6,21363.22,15.5
+"3) Non-smoker, Obese",562,42.0,8842.69,28.0
+"4) Non-smoker, BMI < 30",502,37.5,7977.03,22.6
