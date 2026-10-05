@@ -1,5 +1,0 @@
-comparison,n_groups,all_groups_normal,equal_variances,test,statistic,p_value,effect_size_type,effect_size,significant
-charges by smoker,2,False,False,Mann-Whitney U,5358.0,8.11439527757286e-103,rank-biserial r,-0.942,True
-charges by sex,2,False,False,Mann-Whitney U,144141.0,0.7854632481638306,rank-biserial r,0.01,False
-charges by region,4,False,False,Kruskal-Wallis H,4.284,0.2324331429117413,epsilon squared,0.001,False
-charges by bmi_category,4,False,False,Kruskal-Wallis H,13.24,0.004144476950514784,epsilon squared,0.01,True
