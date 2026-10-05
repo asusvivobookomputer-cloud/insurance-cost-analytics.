@@ -1,5 +1,0 @@
-column,lower_fence,upper_fence,n_outliers,pct_outliers
-age,-9.0,87.0,0,0.0
-bmi,13.67,47.32,9,0.67
-children,-3.0,5.0,0,0.0
-charges,-13120.72,34524.78,139,10.4
